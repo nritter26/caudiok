@@ -3,6 +3,10 @@
 A from-scratch, Windows-11-native re-implementation of a 2000s audio
 restoration host. The product name is **Caudiok** —
 
+This is a learning project NOT!! commercial software. 
+
+Yes some parts of the project is written from an AI Agent.
+
 Status: **v0.5** (2026-11-03). Latest change set: full product rebrand to
 `Caudiok` + re-audit fixes (see `spec/audit-v0.5.md`, R1–R7).
 
