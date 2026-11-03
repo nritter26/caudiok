@@ -1,0 +1,2647 @@
+{
+ "1037": {
+  "kind": "classic-wide",
+  "style": 2227177664,
+  "exstyle": 0,
+  "cdit": 18,
+  "rect": [
+   0,
+   0,
+   356,
+   222
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Exportieren als MPEG1-Layer3-Dateien",
+  "items": [
+   {
+    "id": 1038,
+    "cls": "SysListView32",
+    "rect": [
+     7,
+     9,
+     249,
+     149
+    ],
+    "title": "List1",
+    "style": 1350664201,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 65535,
+    "cls": "BUTTON",
+    "rect": [
+     263,
+     5,
+     86,
+     153
+    ],
+    "title": "",
+    "style": 1342177287,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1046,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     42,
+     70,
+     10
+    ],
+    "title": "CRC",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1047,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     55,
+     70,
+     10
+    ],
+    "title": "Copyright",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1048,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     68,
+     70,
+     10
+    ],
+    "title": "Original",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1049,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     115,
+     70,
+     10
+    ],
+    "title": "Normal Quality",
+    "style": 1342242825,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1050,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     128,
+     70,
+     10
+    ],
+    "title": "Better Quality",
+    "style": 1342242825,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1051,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     141,
+     70,
+     10
+    ],
+    "title": "Highest Quality",
+    "style": 1342242825,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1040,
+    "cls": "msctls_progress32",
+    "rect": [
+     7,
+     164,
+     249,
+     11
+    ],
+    "title": "Progress1",
+    "style": 1342177280,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1043,
+    "cls": "EDIT",
+    "rect": [
+     7,
+     181,
+     318,
+     14
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1044,
+    "cls": "BUTTON",
+    "rect": [
+     331,
+     181,
+     17,
+     14
+    ],
+    "title": "...",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1039,
+    "cls": "COMBOBOX",
+    "rect": [
+     7,
+     201,
+     213,
+     117
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     230,
+     201,
+     55,
+     14
+    ],
+    "title": "Konvertieren",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     293,
+     201,
+     55,
+     14
+    ],
+    "title": "Abbruch",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1052,
+    "cls": "BUTTON",
+    "rect": [
+     271,
+     81,
+     70,
+     10
+    ],
+    "title": "Intensity",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1053,
+    "cls": "STATIC",
+    "rect": [
+     271,
+     101,
+     70,
+     12
+    ],
+    "title": "Quality/Speed",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1054,
+    "cls": "STATIC",
+    "rect": [
+     264,
+     164,
+     85,
+     12
+    ],
+    "title": "0:00:00",
+    "style": 1342308865,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1079,
+    "cls": "COMBOBOX",
+    "rect": [
+     269,
+     16,
+     74,
+     100
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "1041": {
+  "kind": "classic-wide",
+  "style": 2227177664,
+  "exstyle": 0,
+  "cdit": 18,
+  "rect": [
+   0,
+   0,
+   356,
+   222
+  ],
+  "font": [
+   9,
+   "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af"
+  ],
+  "title": "Export as MPEG1 Layer 3 Files",
+  "items": [
+   {
+    "id": 1038,
+    "cls": "SysListView32",
+    "rect": [
+     7,
+     9,
+     249,
+     149
+    ],
+    "title": "List1",
+    "style": 1350664201,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 65535,
+    "cls": "BUTTON",
+    "rect": [
+     259,
+     5,
+     91,
+     153
+    ],
+    "title": "",
+    "style": 1342177287,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1046,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     46,
+     80,
+     10
+    ],
+    "title": "CRC",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1047,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     59,
+     80,
+     10
+    ],
+    "title": "Copyright",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1048,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     72,
+     80,
+     10
+    ],
+    "title": "Original",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1049,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     118,
+     80,
+     10
+    ],
+    "title": "Normal Quality",
+    "style": 1342242825,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1050,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     131,
+     80,
+     10
+    ],
+    "title": "Better Quality",
+    "style": 1342242825,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1051,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     144,
+     80,
+     10
+    ],
+    "title": "Highest Quality",
+    "style": 1342242825,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1040,
+    "cls": "msctls_progress32",
+    "rect": [
+     7,
+     164,
+     249,
+     11
+    ],
+    "title": "Progress1",
+    "style": 1342177280,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1043,
+    "cls": "EDIT",
+    "rect": [
+     7,
+     181,
+     318,
+     14
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1044,
+    "cls": "BUTTON",
+    "rect": [
+     331,
+     181,
+     17,
+     14
+    ],
+    "title": "...",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1039,
+    "cls": "COMBOBOX",
+    "rect": [
+     7,
+     201,
+     203,
+     117
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     230,
+     201,
+     55,
+     14
+    ],
+    "title": "Convert",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     293,
+     201,
+     55,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1052,
+    "cls": "BUTTON",
+    "rect": [
+     265,
+     85,
+     80,
+     10
+    ],
+    "title": "Intensity",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1053,
+    "cls": "STATIC",
+    "rect": [
+     265,
+     102,
+     77,
+     12
+    ],
+    "title": "Quality/Speed",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1054,
+    "cls": "STATIC",
+    "rect": [
+     264,
+     164,
+     85,
+     12
+    ],
+    "title": "0:00:00",
+    "style": 1342308865,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1079,
+    "cls": "COMBOBOX",
+    "rect": [
+     265,
+     17,
+     80,
+     100
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "410": {
+  "kind": "classic-wide",
+  "style": 2160591040,
+  "exstyle": 0,
+  "cdit": 2,
+  "rect": [
+   0,
+   0,
+   186,
+   95
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Dialog",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     129,
+     7,
+     50,
+     14
+    ],
+    "title": "OK",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     129,
+     24,
+     50,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "411": {
+  "kind": "classic-wide",
+  "style": 2227177664,
+  "exstyle": 0,
+  "cdit": 10,
+  "rect": [
+   0,
+   0,
+   241,
+   253
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Importing Audio tracks from CD",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     176,
+     216,
+     59,
+     14
+    ],
+    "title": "&Save",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     176,
+     234,
+     59,
+     14
+    ],
+    "title": "&Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1000,
+    "cls": "COMBOBOX",
+    "rect": [
+     7,
+     7,
+     228,
+     60
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1002,
+    "cls": "SysListView32",
+    "rect": [
+     7,
+     27,
+     228,
+     149
+    ],
+    "title": "List1",
+    "style": 1350664201,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1003,
+    "cls": "msctls_progress32",
+    "rect": [
+     7,
+     200,
+     228,
+     10
+    ],
+    "title": "Progress1",
+    "style": 1342177280,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1005,
+    "cls": "EDIT",
+    "rect": [
+     7,
+     235,
+     140,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1006,
+    "cls": "BUTTON",
+    "rect": [
+     151,
+     235,
+     16,
+     12
+    ],
+    "title": "...",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1007,
+    "cls": "STATIC",
+    "rect": [
+     7,
+     216,
+     159,
+     12
+    ],
+    "title": "",
+    "style": 1342313100,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1008,
+    "cls": "BUTTON",
+    "rect": [
+     7,
+     183,
+     166,
+     11
+    ],
+    "title": "Add to Project",
+    "style": 1342246147,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1013,
+    "cls": "BUTTON",
+    "rect": [
+     185,
+     180,
+     50,
+     14
+    ],
+    "title": "&Update",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "412": {
+  "kind": "classic-wide",
+  "style": 2227177664,
+  "exstyle": 0,
+  "cdit": 10,
+  "rect": [
+   0,
+   0,
+   233,
+   206
+  ],
+  "font": [
+   9,
+   "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af"
+  ],
+  "title": "Importing Audio tracks from CD",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     171,
+     167,
+     55,
+     14
+    ],
+    "title": "&Save",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     171,
+     185,
+     55,
+     14
+    ],
+    "title": "&Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1000,
+    "cls": "COMBOBOX",
+    "rect": [
+     7,
+     7,
+     219,
+     60
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1002,
+    "cls": "SysListView32",
+    "rect": [
+     7,
+     27,
+     219,
+     96
+    ],
+    "title": "List1",
+    "style": 1350664201,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1003,
+    "cls": "msctls_progress32",
+    "rect": [
+     7,
+     152,
+     219,
+     10
+    ],
+    "title": "Progress1",
+    "style": 1342177280,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1005,
+    "cls": "EDIT",
+    "rect": [
+     7,
+     187,
+     140,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1006,
+    "cls": "BUTTON",
+    "rect": [
+     150,
+     187,
+     16,
+     12
+    ],
+    "title": "...",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1007,
+    "cls": "STATIC",
+    "rect": [
+     7,
+     169,
+     159,
+     12
+    ],
+    "title": "",
+    "style": 1342313100,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1008,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     135,
+     151,
+     9
+    ],
+    "title": "Add to Project",
+    "style": 1342246147,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1013,
+    "cls": "BUTTON",
+    "rect": [
+     166,
+     132,
+     58,
+     14
+    ],
+    "title": "&Update",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "413": {
+  "kind": "classic-wide",
+  "style": 2160591040,
+  "exstyle": 0,
+  "cdit": 2,
+  "rect": [
+   0,
+   0,
+   186,
+   95
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Dialog",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     129,
+     7,
+     50,
+     14
+    ],
+    "title": "OK",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     129,
+     24,
+     50,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "414": {
+  "kind": "classic-wide",
+  "style": 2160068800,
+  "exstyle": 0,
+  "cdit": 5,
+  "rect": [
+   0,
+   0,
+   270,
+   90
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Pinnacle Caudiok",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     5,
+     64,
+     93,
+     16
+    ],
+    "title": "&New Project",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1012,
+    "cls": "BUTTON",
+    "rect": [
+     104,
+     64,
+     93,
+     16
+    ],
+    "title": "&Open existing project",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1011,
+    "cls": "STATIC",
+    "rect": [
+     9,
+     11,
+     251,
+     45
+    ],
+    "title": "Do you want to create a new project or open an existing one?",
+    "style": 1073873409,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 65535,
+    "cls": "BUTTON",
+    "rect": [
+     4,
+     0,
+     263,
+     63
+    ],
+    "title": "",
+    "style": 1073741831,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     215,
+     64,
+     50,
+     16
+    ],
+    "title": "&Cancel",
+    "style": 1073807360,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "415": {
+  "kind": "classic-wide",
+  "style": 2160068800,
+  "exstyle": 0,
+  "cdit": 5,
+  "rect": [
+   0,
+   0,
+   270,
+   90
+  ],
+  "font": [
+   9,
+   "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af"
+  ],
+  "title": "Pinnacle Caudiok",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     5,
+     68,
+     93,
+     16
+    ],
+    "title": "&New Project",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1012,
+    "cls": "BUTTON",
+    "rect": [
+     104,
+     68,
+     93,
+     16
+    ],
+    "title": "&Open existing project",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1011,
+    "cls": "STATIC",
+    "rect": [
+     9,
+     11,
+     251,
+     45
+    ],
+    "title": "\u5e0c\u671b\u3059\u308b\u30dc\u30bf\u30f3\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+    "style": 1073873409,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 65535,
+    "cls": "BUTTON",
+    "rect": [
+     4,
+     0,
+     263,
+     63
+    ],
+    "title": "",
+    "style": 1073741831,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     215,
+     68,
+     50,
+     16
+    ],
+    "title": "&Cancel",
+    "style": 1073807360,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "416": {
+  "kind": "classic-wide",
+  "style": 2415921216,
+  "exstyle": 0,
+  "cdit": 0,
+  "rect": [
+   0,
+   0,
+   332,
+   213
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "",
+  "items": []
+ },
+ "418": {
+  "kind": "classic-wide",
+  "style": 2160593088,
+  "exstyle": 0,
+  "cdit": 15,
+  "rect": [
+   0,
+   0,
+   311,
+   119
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Soundcard",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     26,
+     98,
+     50,
+     14
+    ],
+    "title": "OK",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     83,
+     98,
+     50,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1017,
+    "cls": "COMBOBOX",
+    "rect": [
+     19,
+     16,
+     122,
+     150
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1018,
+    "cls": "BUTTON",
+    "rect": [
+     7,
+     4,
+     145,
+     87
+    ],
+    "title": "Playback",
+    "style": 1342177287,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1019,
+    "cls": "EDIT",
+    "rect": [
+     103,
+     33,
+     38,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1020,
+    "cls": "EDIT",
+    "rect": [
+     103,
+     52,
+     38,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1021,
+    "cls": "STATIC",
+    "rect": [
+     20,
+     35,
+     74,
+     10
+    ],
+    "title": "Buffers (4...10):",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1022,
+    "cls": "STATIC",
+    "rect": [
+     20,
+     55,
+     74,
+     10
+    ],
+    "title": "Buffer size (bytes):",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1023,
+    "cls": "STATIC",
+    "rect": [
+     20,
+     75,
+     118,
+     10
+    ],
+    "title": "Delay:",
+    "style": 1342308352,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1024,
+    "cls": "BUTTON",
+    "rect": [
+     159,
+     4,
+     145,
+     87
+    ],
+    "title": "Recording",
+    "style": 1342177287,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1025,
+    "cls": "COMBOBOX",
+    "rect": [
+     171,
+     16,
+     122,
+     150
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1026,
+    "cls": "STATIC",
+    "rect": [
+     172,
+     35,
+     74,
+     10
+    ],
+    "title": "Buffers (4...10):",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1027,
+    "cls": "STATIC",
+    "rect": [
+     172,
+     55,
+     74,
+     10
+    ],
+    "title": "Buffer size (bytes):",
+    "style": 1342308864,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1028,
+    "cls": "EDIT",
+    "rect": [
+     255,
+     33,
+     38,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1029,
+    "cls": "EDIT",
+    "rect": [
+     255,
+     52,
+     38,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "419": {
+  "kind": "classic-wide",
+  "style": 2227177664,
+  "exstyle": 0,
+  "cdit": 15,
+  "rect": [
+   0,
+   0,
+   311,
+   119
+  ],
+  "font": [
+   9,
+   "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af"
+  ],
+  "title": "Soundcard",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     26,
+     98,
+     50,
+     14
+    ],
+    "title": "OK",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     83,
+     98,
+     50,
+     14
+    ],
+    "title": "\u30ad\u30e3\u30f3\u30bb\u30eb",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1017,
+    "cls": "COMBOBOX",
+    "rect": [
+     19,
+     16,
+     122,
+     150
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1018,
+    "cls": "BUTTON",
+    "rect": [
+     7,
+     4,
+     145,
+     87
+    ],
+    "title": "Playback",
+    "style": 1342177287,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1019,
+    "cls": "EDIT",
+    "rect": [
+     109,
+     33,
+     32,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1020,
+    "cls": "EDIT",
+    "rect": [
+     109,
+     52,
+     32,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1021,
+    "cls": "STATIC",
+    "rect": [
+     16,
+     35,
+     90,
+     10
+    ],
+    "title": "Buffers (4...10):",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1022,
+    "cls": "STATIC",
+    "rect": [
+     16,
+     55,
+     90,
+     10
+    ],
+    "title": "Buffer size (bytes):",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1023,
+    "cls": "STATIC",
+    "rect": [
+     20,
+     75,
+     118,
+     10
+    ],
+    "title": "Delay:",
+    "style": 1342308352,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1024,
+    "cls": "BUTTON",
+    "rect": [
+     159,
+     4,
+     145,
+     87
+    ],
+    "title": "Recording",
+    "style": 1342177287,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1025,
+    "cls": "COMBOBOX",
+    "rect": [
+     171,
+     16,
+     122,
+     150
+    ],
+    "title": "",
+    "style": 1344339971,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1026,
+    "cls": "STATIC",
+    "rect": [
+     168,
+     35,
+     90,
+     10
+    ],
+    "title": "Buffers (4...10):",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1027,
+    "cls": "STATIC",
+    "rect": [
+     168,
+     55,
+     90,
+     10
+    ],
+    "title": "Buffer size (bytes):",
+    "style": 1342308864,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1028,
+    "cls": "EDIT",
+    "rect": [
+     261,
+     33,
+     32,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1029,
+    "cls": "EDIT",
+    "rect": [
+     261,
+     52,
+     32,
+     12
+    ],
+    "title": "",
+    "style": 1350631552,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "422": {
+  "kind": "classic-wide",
+  "style": 2260994112,
+  "exstyle": 0,
+  "cdit": 8,
+  "rect": [
+   0,
+   0,
+   243,
+   226
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Importieren von MPEG1-Layer3-Dateien",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     6,
+     207,
+     55,
+     14
+    ],
+    "title": "Konvertieren",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     159,
+     207,
+     55,
+     14
+    ],
+    "title": "Abbruch",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1030,
+    "cls": "SysListView32",
+    "rect": [
+     6,
+     6,
+     231,
+     151
+    ],
+    "title": "List1",
+    "style": 1350664201,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1031,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     162,
+     110,
+     10
+    ],
+    "title": "Dem Projekt zuf\u00fcgen",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1036,
+    "cls": "STATIC",
+    "rect": [
+     8,
+     176,
+     95,
+     10
+    ],
+    "title": "Destination Directory",
+    "style": 1342308864,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1032,
+    "cls": "EDIT",
+    "rect": [
+     6,
+     187,
+     210,
+     14
+    ],
+    "title": "",
+    "style": 1484849280,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1033,
+    "cls": "BUTTON",
+    "rect": [
+     219,
+     187,
+     18,
+     14
+    ],
+    "title": "...",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1034,
+    "cls": "BUTTON",
+    "rect": [
+     182,
+     161,
+     55,
+     14
+    ],
+    "title": "MP3-Dateien",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "423": {
+  "kind": "classic-wide",
+  "style": 2160066752,
+  "exstyle": 0,
+  "cdit": 2,
+  "rect": [
+   0,
+   0,
+   137,
+   45
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Pinnacle Caudiok",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     57,
+     6,
+     50,
+     14
+    ],
+    "title": "OK",
+    "style": 1073807361,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     57,
+     23,
+     50,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1073741824,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "424": {
+  "kind": "classic-wide",
+  "style": 2260994112,
+  "exstyle": 0,
+  "cdit": 8,
+  "rect": [
+   0,
+   0,
+   243,
+   226
+  ],
+  "font": [
+   9,
+   "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af"
+  ],
+  "title": "Importieren von MPEG1-Layer3-Dateien",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     6,
+     207,
+     55,
+     14
+    ],
+    "title": "Konvertieren",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     159,
+     207,
+     55,
+     14
+    ],
+    "title": "Abbruch",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1030,
+    "cls": "SysListView32",
+    "rect": [
+     6,
+     6,
+     231,
+     151
+    ],
+    "title": "List1",
+    "style": 1350664201,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1031,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     162,
+     110,
+     10
+    ],
+    "title": "Dem Projekt zuf\u30fben",
+    "style": 1342242819,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1036,
+    "cls": "STATIC",
+    "rect": [
+     8,
+     176,
+     95,
+     10
+    ],
+    "title": "Destination Directory",
+    "style": 1342308864,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1032,
+    "cls": "EDIT",
+    "rect": [
+     6,
+     187,
+     210,
+     14
+    ],
+    "title": "",
+    "style": 1484849280,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1033,
+    "cls": "BUTTON",
+    "rect": [
+     219,
+     187,
+     18,
+     14
+    ],
+    "title": "...",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1034,
+    "cls": "BUTTON",
+    "rect": [
+     182,
+     161,
+     55,
+     14
+    ],
+    "title": "MP3-Dateien",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "425": {
+  "kind": "classic-wide",
+  "style": 2160593088,
+  "exstyle": 0,
+  "cdit": 24,
+  "rect": [
+   0,
+   0,
+   281,
+   172
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "Preferences",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     163,
+     147,
+     50,
+     14
+    ],
+    "title": "&OK",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     221,
+     147,
+     50,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1055,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     51,
+     124,
+     10
+    ],
+    "title": "Normal  (-40 dB)",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1056,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     36,
+     124,
+     10
+    ],
+    "title": "Medium  (-30 dB)",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1057,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     22,
+     124,
+     10
+    ],
+    "title": "High  (-20 dB)",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1059,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     6,
+     145,
+     64
+    ],
+    "title": " Threshold AutoMarker/AutoStop ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1060,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     6,
+     112,
+     64
+    ],
+    "title": " Threshold AutoMarker ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1061,
+    "cls": "BUTTON",
+    "rect": [
+     173,
+     22,
+     85,
+     10
+    ],
+    "title": "  2 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1062,
+    "cls": "BUTTON",
+    "rect": [
+     173,
+     36,
+     85,
+     10
+    ],
+    "title": "  5 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1063,
+    "cls": "BUTTON",
+    "rect": [
+     173,
+     51,
+     85,
+     10
+    ],
+    "title": "10 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1064,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     74,
+     112,
+     64
+    ],
+    "title": " Threshold AutoStop ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1065,
+    "cls": "BUTTON",
+    "rect": [
+     173,
+     90,
+     85,
+     10
+    ],
+    "title": "  2 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1066,
+    "cls": "BUTTON",
+    "rect": [
+     173,
+     104,
+     85,
+     10
+    ],
+    "title": "  5 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1067,
+    "cls": "BUTTON",
+    "rect": [
+     173,
+     119,
+     85,
+     10
+    ],
+    "title": "10 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1068,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     74,
+     145,
+     42
+    ],
+    "title": " Surround Distance ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1070,
+    "cls": "EDIT",
+    "rect": [
+     19,
+     90,
+     42,
+     14
+    ],
+    "title": "",
+    "style": 1350639746,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1071,
+    "cls": "msctls_updown32",
+    "rect": [
+     62,
+     90,
+     10,
+     14
+    ],
+    "title": "Spin1",
+    "style": 1342177446,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1075,
+    "cls": "STATIC",
+    "rect": [
+     73,
+     90,
+     71,
+     12
+    ],
+    "title": " cm (100...1000)",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1072,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     120,
+     98,
+     45
+    ],
+    "title": " Surround Measuring Units ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1073,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     132,
+     52,
+     10
+    ],
+    "title": "Meter",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1074,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     147,
+     52,
+     10
+    ],
+    "title": "Inch",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1076,
+    "cls": "BUTTON",
+    "rect": [
+     110,
+     120,
+     43,
+     45
+    ],
+    "title": " EQ ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1077,
+    "cls": "BUTTON",
+    "rect": [
+     117,
+     132,
+     30,
+     10
+    ],
+    "title": "A",
+    "style": 1342245892,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1078,
+    "cls": "BUTTON",
+    "rect": [
+     117,
+     147,
+     30,
+     10
+    ],
+    "title": "B",
+    "style": 1342245892,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "426": {
+  "kind": "classic-wide",
+  "style": 2160593088,
+  "exstyle": 0,
+  "cdit": 24,
+  "rect": [
+   0,
+   0,
+   259,
+   172
+  ],
+  "font": [
+   9,
+   "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af"
+  ],
+  "title": "Preferences",
+  "items": [
+   {
+    "id": 1,
+    "cls": "BUTTON",
+    "rect": [
+     151,
+     145,
+     50,
+     14
+    ],
+    "title": "&OK",
+    "style": 1342242817,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 2,
+    "cls": "BUTTON",
+    "rect": [
+     204,
+     145,
+     50,
+     14
+    ],
+    "title": "Cancel",
+    "style": 1342242816,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1055,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     51,
+     120,
+     10
+    ],
+    "title": "Normal  (-40 dB)",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1056,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     36,
+     120,
+     10
+    ],
+    "title": "Medium  (-30 dB)",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1057,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     22,
+     120,
+     10
+    ],
+    "title": "High    (-20 dB)",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1059,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     6,
+     135,
+     64
+    ],
+    "title": " Threshold AutoMarker/AutoStop ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1060,
+    "cls": "BUTTON",
+    "rect": [
+     150,
+     6,
+     105,
+     64
+    ],
+    "title": " Threshold AutoMarker ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1061,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     22,
+     70,
+     10
+    ],
+    "title": "  2 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1062,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     36,
+     70,
+     10
+    ],
+    "title": "  5 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1063,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     51,
+     70,
+     10
+    ],
+    "title": " 10 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1064,
+    "cls": "BUTTON",
+    "rect": [
+     150,
+     74,
+     105,
+     64
+    ],
+    "title": " Threshold AutoStop ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1065,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     95,
+     70,
+     10
+    ],
+    "title": "  2 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1066,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     109,
+     70,
+     10
+    ],
+    "title": "  5 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1067,
+    "cls": "BUTTON",
+    "rect": [
+     161,
+     124,
+     70,
+     10
+    ],
+    "title": " 10 Seconds",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1068,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     74,
+     135,
+     42
+    ],
+    "title": " Surround Distance ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1070,
+    "cls": "EDIT",
+    "rect": [
+     18,
+     90,
+     36,
+     14
+    ],
+    "title": "",
+    "style": 1350639746,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1071,
+    "cls": "msctls_updown32",
+    "rect": [
+     55,
+     90,
+     10,
+     14
+    ],
+    "title": "Spin1",
+    "style": 1342177446,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1075,
+    "cls": "STATIC",
+    "rect": [
+     70,
+     90,
+     67,
+     12
+    ],
+    "title": " cm (100...1000)",
+    "style": 1342308876,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1072,
+    "cls": "BUTTON",
+    "rect": [
+     8,
+     120,
+     91,
+     45
+    ],
+    "title": " Units ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1073,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     132,
+     68,
+     10
+    ],
+    "title": "\u30e1\u30fc\u30c8\u30eb",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1074,
+    "cls": "BUTTON",
+    "rect": [
+     19,
+     147,
+     67,
+     10
+    ],
+    "title": "\u30a4\u30f3\u30c1",
+    "style": 1342242820,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1076,
+    "cls": "BUTTON",
+    "rect": [
+     105,
+     120,
+     38,
+     45
+    ],
+    "title": " EQ ",
+    "style": 1342308359,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1077,
+    "cls": "BUTTON",
+    "rect": [
+     112,
+     132,
+     30,
+     10
+    ],
+    "title": "A",
+    "style": 1342245892,
+    "exstyle": 0,
+    "extra": 0
+   },
+   {
+    "id": 1078,
+    "cls": "BUTTON",
+    "rect": [
+     112,
+     147,
+     30,
+     10
+    ],
+    "title": "B",
+    "style": 1342245892,
+    "exstyle": 0,
+    "extra": 0
+   }
+  ]
+ },
+ "IDEMPTYTEMPLATE": {
+  "kind": "classic-wide",
+  "style": 1409287232,
+  "exstyle": 0,
+  "cdit": 0,
+  "rect": [
+   0,
+   0,
+   9,
+   5
+  ],
+  "font": [
+   8,
+   "MS Sans Serif"
+  ],
+  "title": "",
+  "items": []
+ }
+}

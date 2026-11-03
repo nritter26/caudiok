@@ -1,0 +1,464 @@
+3016	A CD cannot have more than 99 tracks!
+3017	Please choose a WAVE file:
+3018	Could not open source file.
+3019	Could not open destination file.
+3020	importing...
+3021	No CD title.
+3022	No artist
+3023	Title
+3024	Not enough diskspace to complete this operation.
+3025	There's not enough memory to complete this operation.
+3026	imported
+3027	Caudiok
+3028	Pinnacle Caudiok
+3029	ASPI driver not installed or not working!
+3030	Your system has no audio device!
+3031	Your System doesn't support 44100Hz,16bit,stereo!
+3032	Could not allocate write buffers for CD-recording!
+3033	Nothing to burn!
+3034	No CD-Recorder found!
+3035	Could not initialize audio algorithm library.
+3036	Do you really want to delete this track?
+3037	Please select a project file
+3038	Locking Door...
+3039	Error! No CDRAudioData
+3040	Error! No CdBuffers
+3041	Error! Opendisc failed
+3042	Adding Tracks...
+3043	GRI_AddTrack2Session failed
+3044	Error! No Tracks added
+3045	Open Session...
+3046	GRI_OpenSession failed
+3047	Error! No Session Opened
+3048	Simulating CD writing (%ldx)...
+3049	Writing CD (%ldx)...
+3050	GRI_WriteBlocks failed
+3051	Error! No write blocks
+3052	Closing Session...
+3053	GRI_CloseSession failed
+3054	Error! No close session
+3055	Closing Disc...
+3056	GRI_CloseDisk failed
+3057	Error! No close disc
+3058	Unlocking Door...
+3059	Eject CD...
+3060	No CD-recorder found
+3061	failed to load GRI-Driver
+3062	Finished
+3063	CD successfully recorded!
+3064	Select Directory ...
+3065	could not create peak file in 'AEFileManager::newImportFile' 
+3066	cpf
+3067	CPF projects|*.cpf|DAT projects|*.dat|||
+3068	Do you want to delete this file from your hard disk (No Undo)?
+3069	Do you really want to remove this file?
+3070	The file MUST be: 44.1 kHz, 16 bit!
+3071	recorded
+3072	Export Tracklist as ...
+3073	TXT Files|*.txt|All Files|*.*|||
+3074	Export Wavefile as ...
+3075	WAV Files|*.wav|All Files|*.*|||
+3076	Save Project as ...
+3077	Please select a new project filename...
+3078	Tracklist of
+3079	Total time
+3080	Total time is greater than
+3081	End of Tracklist.
+3082	New Project.cpf
+3083	Title
+3084	Length
+3085	Import audio tracks from CD
+3086	Import
+3087	Importing
+3088	File must be at least 7 seconds long!
+3089	File
+3090	New Project...
+3091	Open Project...
+3092	Save Project
+3093	Save Project as...
+3094	Export Audiotrack as WAV...
+3095	Export Tracklist as...
+3096	Select temp file directory...
+3097	Quit
+3098	About Caudiok
+3099	CD
+3100	Write Audio CD-R...
+3101	Import
+3102	Import Tracks from CD...
+3103	Some files could not be imported! The Files must be at least 7 seconds long and 16 Bit!
+3104	Do you want to normalize all tracks?
+3105	Do you want to normalize this track?
+3106	Cancel
+3107	Normalize
+3108	Normalize selected Track
+3109	Normalize all Tracks
+3110	Please check the length of all tracks! Each track must be at least 7 seconds long. A CD can record max. 74/80-99 minutes!
+3111	All files must be processed before burning!
+3112	Canceled - Please wait!
+3113	Add to Project
+3114	Select
+3115	Please Insert Caudiok CD
+3116	Do you want to create a new project or open an existing one?
+3117	Create new project
+3118	Open existing project
+3119	Cancel
+3120	Some files could not be found or are shorter than 7 seconds and have been removed from the tracklist.
+3121	Recorded title is too short. A title must be at least 7 seconds long. It has been removed from the tracklist.
+3122	Save CD track as...
+3123	Update
+3124	Options
+3125	Use left channel
+3126	Use right channel
+3127	Mono playback
+3128	Can't find 'Wnaspi32.dll'...    Importing tracks from CD is not possible!
+3129	Help
+3130	Pinnacle on the Internet
+3131	Pinnacle Service on the Internet
+3132	Soundcard settings...
+3133	Soundcard
+3134	Playback
+3135	Recording
+3136	Buffers (4...10):
+3137	Buffer size (bytes): 
+3138	Delay
+3139	CD info...
+3140	This is not a CD-R!
+3141	Already sessions on that CD-R!
+3142	No CD-R in drive available!
+3143	Unknown Error!
+3144	Available time on this CD-R:
+3145	Select MPEG1-Layer3 file...
+3146	MP3 Files|*.mp3|All Files|*.*|||
+3147	No MPEG1-Layer3 codec installed; cannot decode MPEG1-Layer3 file!
+3148	Undo (Normalize)
+3149	Undo (Process)
+3150	Undo (Marker)
+3151	Undo
+3152	Import MP3 file...
+3153	Import WAV/MP3 file...
+3154	Remove WAV file
+3155	Delete WAV file
+3156	CD Drive does not allow grabbing!
+3157	Error while grabbing from CD!
+3158	Convert
+3159	MP3-Files
+3160	No MP3 files selected!
+3161	This is not a correct MPEG1-Layer3 file!
+3162	Name
+3163	Importing MPEG1-Layer3-Files
+3164	Samplerate
+3165	Channels
+3166	Mono
+3167	Stereo
+3168	Unknown
+3169	Number
+3170	Destination directory
+3171	Klassik
+3172	Pop
+3173	Disco
+3174	Rock
+3175	Techno
+3176	Vocals
+3177	Bass, High
+3178	Bass
+3179	Mids
+3180	High
+3181	Brilliance
+3182	Loudness
+3183	Telephone
+3184	Hum
+3185	Flat
+3187	Creating table of contents...
+3188	Resetting Device...
+3189	CD Write Error!
+3190	Error! CD burning not possible!
+3191	Export audiotrack as MP3 file...
+3192	Export as MP3 file
+3193	Author
+3194	Title
+3195	Time
+3196	Encode
+3197	Cancel
+3198	CRC
+3199	Copyright
+3200	Original
+3201	Intensity
+3202	MP3-Quality/Speed
+3203	Normal/fast
+3204	Better
+3205	Highest/slow
+3206	Light
+3207	Medium
+3208	Heavy
+3209	High  (-20 dB)
+3210	Medium  (-30 dB)
+3211	Normal  (-40 dB)
+3212	AutoMarker/AutoStop (Delay)
+3213	Preferences...
+3214	Delay AutoMarker
+3215	  2 Seconds
+3216	  5 Seconds
+3217	10 Seconds
+3218	Delay AutoStop
+3219	Couldn't open MME (Playback) device.
+3220	Couldn't open MME (Recording) device.
+3221	Some files have not been deleted.
+3222	Write Data CD...
+3223	Remaining CDR time
+3224	Selected loop time
+3225	time display
+3226	Zoom into View
+3227	Zoom out
+3228	Mono/Stereo
+3229	Global Effects On/Off
+3230	Global HQ Mode On/Off
+3231	Process all titles
+3232	Cancel processing
+3233	Play
+3234	Stop
+3235	Record
+3236	Rewind
+3237	Forward
+3238	Skip to previous title
+3239	Skip to next title
+3240	Single title loop On/Off
+3241	Import WAV/MP3 audiofile
+3242	Remove title from titlelist
+3243	Remove title from titlelist AND DELETE from harddisk
+3244	Process active title
+3245	Output level left
+3246	Output level right
+3247	Input level left
+3248	Input level right
+3249	Equalizer On/Off
+3250	Equalizer select preset
+3251	Equalizer set preset
+3252	Equalizer remove preset
+3253	Progress display
+3254	Remaining disk space
+3255	Fade-In time
+3256	Fade-Out time
+3257	Declicker On/Off
+3258	Decrackler On/Off
+3259	Denoiser On/Off
+3260	Derumbler On/Off
+3261	Phase Correction On/Off
+3262	Vari Speed On/Off
+3263	Stereo Spread On/Off
+3264	LoudMax On/Off
+3265	CPU load
+3266	Set marker automatically
+3267	Set marker manually
+3268	Delete marker
+3269	Create tracks from automarker
+3270	AutoCaudiok
+3271	Effect Page
+3272	Surround Page
+3273	Burn Audio CD
+3274	Burn Data CD
+3275	Audition Declicker On/Off
+3276	Audition Decrackler On/Off
+3277	Audition Denoiser On/Off
+3278	You have reached the maximum amount of encodings of 20. To get unlimited encoding you have to buy the MP3-Updater!
+3279	Get Project
+3280	Add
+3281	Remove
+3282	Burn
+3283	Close
+3284	Burning
+3285	file
+3286	files
+3287	No files selected
+3288	Surround is working only in stereo mode. Do you want turn on Surround and switch to stereo mode?
+3289	Surround is switched on. Do you want to switch to mono mode and switch off Surround?
+3290	Write Data-CD...
+3291	Surround Distance
+3292	Burn
+3293	Nr
+3294	Type
+3295	Filename
+3296	Size
+3297	Burn CD
+3298	Eject CD
+3299	Close Dialog/Cancel Burn
+3300	Rescan/Reset Bus
+3301	Simulation/Real Burn
+3302	Set Burnspeed
+3303	Found CD-R/W Burner
+3304	Status of Burning
+3305	Progress of Burning
+3306	Selected speed of Burning
+3307	You have %i remaining MP3 exports. For unlimited exports please order Pinnacles MP3-Update.
+3308	This is your last MP3 export. For unlimited exports please order Pinnacles MP3-Update.
+3309	Surround Measure Units
+3310	cm (100...1000)
+3311	inch (40...400)
+3312	distance:
+3313	angle:
+3316	Welcome to the Caudiok IntelliAssistant!
+3317	The Caudiok IntelliAssistant is a step by step guide that helps you to perfectly restore and optimize the sound of your music, before you record it onto CD.
+3318	Track selection
+3319	Please select the desired music files. Caudiok supports music files in the Wave and MP3 formats (.wav or .mp3).
+3320	Category
+3321	Please state, whether the individual Tracks have originally been taken from audio cassette, vinyl record or CD. Caudiok will use this information to auto-generate the best possible effect settings. Tracks taken from CD will not be restored which automatically decreases processing time. If you do not have any information about the original source medium, then you must not fill in this field.
+3322	Pause between the Tracks
+3323	The pause between two individual Tracks is set to a default value of 2 seconds. You can manually change this to a value between 0 and 4 seconds. To do this, click on the Pause column and input the desired value via your computer keyboard.
+3324	Restoration
+3325	The IntelliAssistant tests the Tracks for noise crackles and clicks. Then it selects the best possible values for restoration. The analysis is also based upon the categories that were preset under point 3.
+3326	Sound Optimization
+3327	The IntelliAssistant tests each Track for optimum level and density of sound. Use this option to increase the average level of a Track. If a wide dynamic range is part of the musical character of a recording (e.g. classical music), then you should not use this effect.
+3328	Using additional effects
+3329	In addition, each Track can individually be processed with effects. You could e.g. freshen up Track 1 by slightly using the Stereo Spread effect, while you activate Vari Speed and Reverb for the next Track. Caudiok automatically memorizes your effect settings. An effect can be activated by using the On/Off switch on its left side. Its intensity can be controlled via its fader. However, if you have already activated Automatic Restoration (point 5) and Sound Optimization (point 6), then the effects used for these processes will not be available for manual settings, as they have already been activated and set automatically.
+3330	Defining Track length / Fade in and out
+3331	The Waveform display shows a graphic waveform of the Track that is currently selected in the Track list. Here you determine where the Track starts and ends and set a possible fade in or fade out. To change the beginning of the selected Track, drag the green Start Marker (the lower dot on the left side) with the mouse to determine a new start position. You can use the red End Marker (the lower dot on the right side) to determine the end of the audio file in a similar fashion. Use the mouse to drag the dot to the desired end position. By using the Fade in and Fade out Markers you can gradually increase (fade in) and/or decrease (fade out) the volume of the currently selected Track within a definable time frame at the beginning and at the end of the audio file. To fade in a Track, drag the green Fade in Marker (the upper dot on the left side) to the right. If you want to fade out a Track, drag the Fade out Marker (the upper red dot} to the left until the fade out has the required length.
+3332	Surround Sound
+3333	By using the Surround module, you can convert a normal stereo recording into a Surround recording with spatial sound characteristics, which can still also be played back via a normal stereo system. Switch on the Surround section. Use the Surround level fader at the bottom left of the Surround section to distribute the volume level between the front and rear speakers. Then drag the individual speaker symbols to positions that correspond to the desired or available speaker positions of your ‘real’ HiFi system. The Surround settings do always apply globally to all Tracks in the Track list.
+3334	Edit Mode
+3335	If you want to record individual unchanged Tracks onto CD (no restoration, no sound editing), you can right-click onto the corresponding Track number in the Track list. The color of the Track number changes from red to green and the corresponding file becomes available for recording onto CD-ROM without further processing. Please do note however, that all effect settings as well as fade-ins and -outs that you might have defined for this Track will be ignored as no processing has taken place!
+3336	Restauration Page
+3337	Do you really want to delete all the audio files and the project file (NO UNDO)?
+3338	Learn Morph Data
+3339	Process
+3340	Toggle status of '%s'
+3341	Set status of all tracks to PROCESSED
+3342	Set status of all tracks to UNPROCESSED
+3343	Edit author
+3344	Edit title
+3345	Delete COMPLETE project (incl ALL audio files) : NO UNDO!!
+3346	Nothing
+3347	Soundmorph On/Off
+3348	Tube simulation On/Off
+3349	Reverb On/Off
+3350	Car simulation On/Off
+3351	Edit Soundmorph...
+3352	Activate
+3353	No file present
+3354	File to be morphed
+3355	Source file not morphed
+3356	File from Disk
+3357	Live Input
+3358	Type
+3359	Analyze
+3360	Done
+3361	Close
+3362	Idle
+3363	Busy
+3364	Source file already morphed
+3365	Edit Soundmorph
+3366	Final settings
+3367	Please select how Caudiok should finish your Project:
+3368	Record CD
+3369	Simulate CD Recording process
+3370	Save Project onto hard disk
+3371	You have now made all necessary settings so that Caudiok can start to process the data. Please click on the OK button to start processing the Project.
+3372	Back
+3373	Next
+3374	Execute
+3375	Cancel
+3376	This is no valid caudiok project file!
+3377	Empty
+3378	Where is '%s' ?
+3379	CD Pause
+3380	Labeleditor
+3381	Labeleditor could not be found!
+3382	%ld titles are very short. In order to restorate them they have to be longer than 23 seconds. What do you want to do with these titles?
+3383	One title is very short. In order to restorate it, it has to be longer than 23 seconds. What do you want to do with this title?
+3384	Remove Title
+3385	No Restoration
+3386	Cancel Assistant
+3387	There is not enough diskspace. Do you want to select another temporary directory?
+3388	Select...
+3389	Recent Project
+3390	Couldn't find the selected project file:
+3391	Track count
+3392	Session count
+3393	Unfinished session nr
+3394	Medium type
+3395	Disc status
+3396	Disc type
+3397	Disc size
+3398	Free disc size
+3399	Disc ID
+3400	Erasable
+3401	DAO supported
+3402	CD text support
+3403	ISRC write support
+3404	UPC write support
+3405	Index support
+3406	Simulation support
+3407	Disc
+3408	CD-R/W
+3409	Yes
+3410	No
+3411	Refresh
+3412	CD- and Burner Info
+3413	Empty CD
+3414	Writable CD
+3415	Not writable CD
+3416	Erase CD
+3417	Quick
+3418	Full
+3419	Erasing CD...
+3436	This samplerate (%ld Hz) is not possible for an audio CD!
+3437	AutoStart (Threshold)
+3438	Record Dialog
+3439	Record Duration (h:mm)
+3440	AutoMarker/-Stop (Threshold)
+3441	Discard
+3442	Pause
+3443	Record Path
+3444	Recording length and size
+3445	Input Level
+3446	Attenuation
+3447	Audition Fingerprint Denoiser On/Off
+3448	Audition DeEsser On/Off
+3449	Solobutton Multiband Compressor HI Solo/Normal
+3450	Solobutton Multiband Compressor MID Solo/Normal
+3451	Solobutton Multiband Compressor LO Solo/Normal
+3452	Select FP Denoiser Preset
+3453	Delete FP Denoiser Preset
+3454	Dehummer Frequency
+3455	Metanormalize all tracks
+3456	DeEsser On/Off
+3457	Dehummer On/Off
+3458	Fingerprint Denoiser On/Off
+3459	Multiband Compressor On/Off
+3460	Brilliance On/Off
+3461	IntelliAssistant
+3462	Mastering page
+3463	Meta-Normalize
+3464	Close
+3465	All files have been meta-normalized.
+3466	Could not launch Acrobat Reader!
+3467	Help
+3468	Homepage
+3469	Product News
+3470	Community
+3471	Support
+3472	Support Forum
+3473	Downloads
+3474	Online Shop
+3475	Ignore size of CD
+3476	Open Mixer
+3477	Could not open the file.
+3478	The selected recording device does not support the Windows mixer application. Please use the mixer software that is supplied with your soundcard instead or choose a different recording device.
+3479	<original vendor URL>
+3480	<original vendor product URL>
+3481	<original vendor URL>
+3482	<original vendor URL>
+3483	<original vendor URL>
+3484	<original vendor URL>
+3485	<original vendor URL>
+3486	<original vendor URL>
+3487	Fraunhofer Codec
+3488	LAME Codec
+3489	CD Text
+3490	Title
+3491	Artist
+3496	Copyright Information!
+3497	YOU MAY USE THIS SOFTWARE TO ASSIST YOU IN COPYING MATERIAL IN WHICH YOU OWN THE COPYRIGHT OR HAVE OBTAINED PERMISSION TO COPY FROM THE COPYRIGHT OWNER.  IF YOU DO NOT OWN THE COPYRIGHT OR YOU HAVE NOT OBTAINED PERMISSION TO COPY FROM THE COPYRIGHT OWNER, YOU MAY BE VIOLATING COPYRIGHT LAW AND YOU MAY BE SUBJECT TO CLAIMS FOR DAMAGES AND/OR CRIMINAL PENALTIES.
+3498	Do not show this dialog again!
+3499	Do you want to overwrite the existing file
+3500	Expander On/Off
+3501	Write DVD
+3502	Open WaveLab Audio Editor
